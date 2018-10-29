@@ -2,6 +2,8 @@
 
 This project contains a bookshelf that a user can categorize books into "currently reading", "want to read", and "read" on the main page. On the search page, a user can find books and assign to a shelf on the main page. There is also an option to remove books from a shelf altogether, by assigning the book "none".  
 
+View live version here: https://kdjohnson89.github.io/Bookshelf_App/
+
 ## Installation
 
 Download from Github by selecting the "Clone or download" button and selecting "Download ZIP".
